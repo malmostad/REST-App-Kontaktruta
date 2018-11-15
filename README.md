@@ -1,4 +1,4 @@
-# restapp-boilerplate
+# REST-App-Kontaktruta
 
 SiteVision restapp boilerplate used as template
 

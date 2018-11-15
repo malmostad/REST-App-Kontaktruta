@@ -1,0 +1,9 @@
+{
+   "id": "restapp-kontaktruta",
+   "version": "0.0.1",
+   "name": "RESTApp kontaktruta",
+   "author": "Bouvet AB",
+   "description": "Restapp för kontaktruta",
+   "helpUrl": "https://help.sitevision.se/restapps",
+   "type": "RESTApp"
+}
